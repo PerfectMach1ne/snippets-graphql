@@ -1,2 +1,2 @@
-*.gpq linguist-detectable=true
+*.gql linguist-detectable=true
 *.graphql linguist-detectable=true
